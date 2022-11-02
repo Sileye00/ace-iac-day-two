@@ -7,7 +7,7 @@
 app-fqdn-rules.tf @<secops>
 
 # In a true org structure, these files should have the Network Operators account as the owner:
-main.tf @<netops>
-provider.tf @<netops>
-variables.tf @<netops>
-versions.tf @<netops>
+main.tf @<Sileye00>
+provider.tf @<Sileye00>
+variables.tf @<Sileye00>
+versions.tf @<Sileye00>
